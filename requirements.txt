@@ -1,0 +1,7 @@
+biopython
+scikit-learn
+numpy
+pandas
+joblib
+matplotlib
+seaborn
